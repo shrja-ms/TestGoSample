@@ -217,4 +217,3 @@ func unmarshalTriggerContextClassification(rawMsg json.RawMessage) (TriggerConte
 	}
 	return b, json.Unmarshal(rawMsg, b)
 }
-
