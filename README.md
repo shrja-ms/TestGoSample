@@ -1,0 +1,2 @@
+# TestGoSample
+Testing
